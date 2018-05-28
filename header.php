@@ -2,8 +2,8 @@
 <html>
     <head>
         <!-- En-tête de la page -->
-		<link rel="steelsheet" href="css/main.css" />
-		<link rel="steelsheet" href="css/footer.css" />
+		<link rel="stylesheet" href="css/main.css" />
+		<link rel="stylesheet" href="css/footer.css" />
         <meta charset="utf-8" />
         <title>Custom Air</title>
     </head>
