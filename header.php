@@ -19,4 +19,9 @@
                     <li><a href="#" >Contact US</a><li>
                  <ul>
             </nav>
+			<img src="" alt="" >
+			<img src="" alt="" >
+			<img src="" alt="" >		
+			<a href="#" >SIGN IN</a>
+			<img src="" alt="" >
         </header>
