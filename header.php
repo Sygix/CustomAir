@@ -9,16 +9,18 @@
     </head>
     <body>
         <header>
+			<!--Logo CustomAIR-->
 			<img src="" alt="" >
-            <nav>
-                <ul>
-                    <li><a href="#" >Our feet</a><li>
-                    <li><a href="#" >Book a flight</a><li>
-                    <li><a href="#" >Learn to fly</a><li>
-                    <li><a href="#" >Destination</a><li>
-                    <li><a href="#" >Contact US</a><li>
-                 <ul>
-            </nav>
+			<!--Menu PRINCIPAL -->
+		<nav>
+			<ul>
+				<li><a href="#" >Our feet</a></li>
+				<li><a href="#" >Book a flight</a></li>
+				<li><a href="#" >Learn to fly</a></li>
+				<li><a href="#" >Destination</a></li>
+				<li><a href="#" >Contact US</a></li>
+			</ul>
+        </nav>
 			<img src="" alt="" >
 			<img src="" alt="" >
 			<img src="" alt="" >		
