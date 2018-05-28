@@ -5,9 +5,7 @@
         <meta charset="utf-8" />
         <title>Custom Air</title>
     </head>
-
     <body>
-        <!-- Corps de la page -->
-
-    </body>
-</html>
+        <header>
+            HEADER
+        </header>
