@@ -1,8 +1,10 @@
 *{
     text-decoration: none;
+    list-style: none;
 }
 
 body{
     margin: 0 auto 0 auto;
+    width: 1200px;
     background-color: aqua;
 }
