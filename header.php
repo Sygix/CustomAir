@@ -7,5 +7,13 @@
     </head>
     <body>
         <header>
-            HEADER
+            <nav>
+                <ul>
+                    <li><a href="#" alt="#" >Our feet</a><li>
+                    <li><a href="#" alt="#" >Book a flight</a><li>
+                    <li><a href="#" alt="#" >Learn to fly</a><li>
+                    <li><a href="#" alt="#" >Destination</a><li>
+                    <li><a href="#" alt="#" >Contact US</a><li>
+                 <ul>
+            </nav>
         </header>
