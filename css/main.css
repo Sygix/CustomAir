@@ -4,7 +4,55 @@
 }
 
 body{
-    margin: 0 auto 0 auto;
+    margin-right : auto ;
+	margin-left : auto ;
     width: 1200px;
-    background-color: aqua;
+    background-color: white;
+	
 }
+header
+{
+	display : flex ;
+	justify-content : space-around ;
+}
+.logo
+{
+	width : 100% ;
+	height : auto ;
+}
+.logo_li
+{
+	width : 93px ;
+	padding : 0;
+}
+.menu 
+{
+	margin-top : 18%;
+	display : flex;
+	justify-content : space-around ;
+	width : 120% ;
+
+
+}
+.menu_a
+{
+	color : black ;
+}
+.menu_a:hover
+{
+	color : red ;
+}
+.menu_a:active
+{
+	color : red ;
+}
+.reseaux_sociaux
+{
+	display : flex ;
+}	
+.reseaux_sociaux_img
+{
+	width : 70% ;
+	height : auto ;
+}
+
