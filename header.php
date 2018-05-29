@@ -10,7 +10,7 @@
     <body>
         <header>
 			<!--Logo CustomAIR-->
-		<div class="logo_li"><img src="images/logo.png" alt="Logo CustomAir" class="logo" ></div>	
+		<div class="logo_li"><img src="img/logo.png" alt="Logo CustomAir" class="logo" ></div>
 			<!--Menu PRINCIPAL -->
 		<nav >
 		
@@ -23,9 +23,9 @@
 			</ul>
         </nav>
 		<ul class="reseaux_sociaux">
-			<li><a href="#" class="reseaux_sociaux_a" ><img src="images/facebook_icon.png" alt="Facebook" class="reseaux_sociaux_img" ></a></li>
-			<li><a href="#" class="reseaux_sociaux_a" ><img src="images/twitter_icon.png" alt="Twitter" class="reseaux_sociaux_img" ></a></li>
-			<li><a href="#" class="reseaux_sociaux_a" ><img src="images/facebook_icon.png" alt="Linkedin" class="reseaux_sociaux_img"></a></li>
+			<li><a href="#" class="reseaux_sociaux_a" ><img src="img/facebook_icon.png" alt="Facebook" class="reseaux_sociaux_img" ></a></li>
+			<li><a href="#" class="reseaux_sociaux_a" ><img src="img/twitter_icon.png" alt="Twitter" class="reseaux_sociaux_img" ></a></li>
+			<li><a href="#" class="reseaux_sociaux_a" ><img src="img/facebook_icon.png" alt="Linkedin" class="reseaux_sociaux_img"></a></li>
 		</ul>		
 			<a href="#" >SIGN IN</a>
 			<img src="" alt="" >

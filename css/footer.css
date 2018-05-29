@@ -1,8 +1,46 @@
 footer{
     margin: 0 auto 0 auto;
     width: 1200px;
+    height: 339px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    background-image: url("../img/footer-background.jpg");
+    background-size: 100%;
+    color: white;
+}
+
+footer p a{
+    color: white;
+}
+
+#map{
+    padding-left: 5px;
+    width: 405px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#number{
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo{
+    padding-right: 5px;
+    width: 405px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo img{
+    width: 169px;
 }
 
