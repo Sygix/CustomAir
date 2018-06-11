@@ -1,3 +1,6 @@
+
+/* Fichier séparer pour la gestion du footer, plus pratique pour le développement à plusieurs */
+
 footer{
     margin: 0 auto 0 auto;
     width: auto;
@@ -23,6 +26,8 @@ footer #copyright{
     font-size: 12px;
 }
 
+/* Partie localisation avec google map */
+
 #map{
     width: 33%;
     display: flex;
@@ -32,6 +37,8 @@ footer #copyright{
     text-align: center;
 }
 
+/* Partie numéro de téléphone */
+
 #number{
     display: flex;
     width: 33%;
@@ -40,6 +47,8 @@ footer #copyright{
     align-items: center;
     text-align: center;
 }
+
+/* Partie avec le logo */
 
 #logo{
     width: 33%;
@@ -74,6 +83,8 @@ footer #copyright{
         font-size: 12px;
     }
 }
+
+/* Comportements spéciaux lors d'un écran plus petit que 576px */
 
 @media (max-width:575px){
     footer{

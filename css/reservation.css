@@ -1,7 +1,14 @@
+
+/* Fichier séparer pour la gestion de la page reservation, plus pratique pour le développement à plusieurs
+* Ajout sur toutes les classes
+*/
+
 *{
     margin: 0;
     padding: 0;
 }
+
+/* Barre d'étapes */
 
 .container-progress {
     width: 1200px;
@@ -56,6 +63,10 @@
     background-color: #ff000c;
 }
 
+
+/* Formulaire Premier partie */
+
+
 form h2{
     margin: 10px;
 }
@@ -71,6 +82,9 @@ form h2{
     font-size: 18px;
     font-weight: normal;
 }
+
+/* Mise en forme du bloc destinations */
+
 #destination {
     margin: 10px 93.3px 2px 93.3px;
     height: 158px;
@@ -114,6 +128,9 @@ form h2{
     border-width: 0;
     border-bottom: 0.1px solid #4f4f4f;
 }
+
+/* Mise en forme du bloc passagers */
+
 #passengers {
     margin: 2px 93.3px 10px 93.3px;
     height: 212px;
@@ -136,6 +153,9 @@ form h2{
     color: #4f4f4f;
     margin: 4px;
 }
+
+/* Mise en forme du bloc dates */
+
 #dates {
     margin: 10px 93.3px 2px 0;
     height: 125px;
@@ -179,6 +199,9 @@ form h2{
     border-width: 0;
     border-bottom: 0.1px solid #4f4f4f;
 }
+
+/* Mise en forme du bloc repas */
+
 #meals {
     margin: 2px 93.3px 10px 0;
     height: 245px;
@@ -201,6 +224,9 @@ form h2{
     width: 23px;
     height: 23px;
 }
+
+/* Deuxième bloc du formulaire */
+
 #step2{
     margin: 33px auto 33px auto;
     height: 245px;
@@ -222,6 +248,9 @@ form h2{
     width: 339px;
     height: 176px;
 }
+
+/* Mise en forme du bouton envoie */
+
 #submit{
     margin: auto 489px auto 489px;
     width: 220px;
@@ -237,6 +266,8 @@ form h2{
     background-color: #cd000c;
     cursor: pointer;
 }
+
+/* Partie visite à 360° */
 
 #rv{
     margin: 33px auto 33px auto;
@@ -255,6 +286,9 @@ form h2{
 .hiden{
     display: none;
 }
+
+/* Bloc pour le défilement des images */
+
 .container-carousel{
     max-width: 1200px;
     max-height: 563px;
@@ -277,6 +311,8 @@ form h2{
 .activ, .dot:hover {
     background-color: rgb(120, 0, 10);
 }
+
+/* Visite de l'intérieur de l'avion mise en forme */
 
 #interior{
     margin: 33px auto 0 auto;
@@ -322,6 +358,8 @@ form h2{
     width: 160px;
     height: 39px;
 }
+
+/* Comportements spéciaux lors d'un écran plus petit que 1199px */
 
 @media (max-width:1199px){
     body {
@@ -407,6 +445,9 @@ form h2{
         width: 15%;
     }
 }
+
+
+/* Comportements spéciaux lors d'un écran plus petit que 576px */
 
 @media (max-width:575px){
 

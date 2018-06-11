@@ -1,6 +1,11 @@
+
+<!-- Ajout du header via PHP -->
+
 <?php
     include("header.php");
 ?>
+
+<!-- Barre d'étapes de reservation -->
 
 <div class="container-progress">
     <ul class="progressbar">
@@ -11,10 +16,19 @@
     </ul>
 </div>
 
+<!-- Formulaire pour la réservation -->
+
+
 <form action="#" method="post">
+
+
+    <!-- Premier bloc avec les différents formulaire a remplir -->
 
     <h2>Reserve your flight</h2>
     <div id="step1">
+
+        <!-- La destination -->
+
         <div id="destination">
             <div id="dest1">
                 <h3 class="h3-title">Destination</h3>
@@ -30,6 +44,9 @@
                 </div>
             </div>
         </div>
+
+        <!-- Les passagers -->
+
         <div id="passengers">
             <div id="pass1">
                 <h3 class="h3-title">Passengers</h3>
@@ -48,6 +65,9 @@
                     </span>
             </div>
         </div>
+
+        <!-- Les dates -->
+
         <div id="dates">
             <h3 id="date1" class="h3-title">Dates</h3>
             <div id="date2">
@@ -60,6 +80,9 @@
                 </div>
             </div>
         </div>
+
+        <!-- Les repas -->
+
         <div id="meals">
             <div id="meal1">
                 <h3 class="h3-title">Meals</h3>
@@ -98,6 +121,8 @@
         </div>
     </div>
 
+    <!-- Deuxième bloc pour le choix de l'avion -->
+
     <h2>Choose your plane</h2>
     <div id="step2">
         <div id="step2-title">
@@ -128,8 +153,13 @@
             <img src="img/avion_citation_m2.jpg">
         </div>
     </div>
+
+    <!-- Bouton d'envoi et fin du formulaire -->
+
     <button id="submit" type="submit">Submit your reservation</button>
 </form>
+
+    <!-- Bloc visite 360° de l'avion -->
 
 <article id="rv">
     <h2>360° tour</h2>
@@ -158,6 +188,8 @@
     </div>
 </article>
 
+    <!-- Bloc pour voir l'intérieur de nos avions -->
+
 <article id="interior">
     <h2>Interior</h2>
     <p>Treat yourself to comfort</p>
@@ -169,7 +201,13 @@
         <img src="img/reservation_interior_1_default.jpg">
     </div>
 </article>
-<script src="js/main.js"></script>
+
+    <!-- Ajout de la page JS nécéssaire -->
+
+    <script src="js/main.js"></script>
+
+    <!-- Ajout du footer via php -->
+
 <?php
     include("footer.php");
 ?>

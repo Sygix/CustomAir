@@ -1,5 +1,7 @@
 
-        <footer>
+<!-- Bloc footer -->
+
+<footer>
             <div id="map"> <!-- Google Map -->
                 <p>Our Location : custom air at London City airport Hartmann Rd, London E16 2PX, United Kingdom</p>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.4563256795122!2d0.0473293161335745!3d51.5048436796348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a8880ebb3687%3A0x774e
