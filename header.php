@@ -4,10 +4,11 @@
         <!-- En-tête de la page -->
 		<link rel="stylesheet" href="css/main.css" />
 		<link rel="stylesheet" href="css/footer.css" />
+        <link rel="stylesheet" href="css/reservation.css" />
 		<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
-		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-		
-		<meta charset="utf-8" />
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <meta name="viewport" content="width=device-width, user-scalable=no">
+		<meta charset="utf-8"/>
         <title>Custom Air</title>
     </head>
     <body>
